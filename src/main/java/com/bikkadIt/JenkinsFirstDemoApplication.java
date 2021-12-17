@@ -8,6 +8,9 @@ public class JenkinsFirstDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsFirstDemoApplication.class, args);
+		
+		
+		System.out.println("First Jenkins Integration test");
 	}
 
 }
