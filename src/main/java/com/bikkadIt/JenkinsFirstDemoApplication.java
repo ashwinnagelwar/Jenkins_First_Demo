@@ -11,6 +11,7 @@ public class JenkinsFirstDemoApplication {
 		
 		
 		System.out.println("First Jenkins Integration test");
+		System.out.println("First Build Pipeline Trial");
 	}
 
 }
